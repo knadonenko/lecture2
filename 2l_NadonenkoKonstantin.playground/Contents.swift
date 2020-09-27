@@ -68,5 +68,4 @@ func primeArr () -> [Int] {
     
     return results
 }
-
 print(primeArr())
